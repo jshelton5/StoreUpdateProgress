@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="StoreUpdateProgress" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="vMySTID" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CurrentServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TRI-VRREPORTS-1</Value>
+    </Setting>
+    <Setting Name="CurrentInstance" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VERSIRENTSQL</Value>
+    </Setting>
+    <Setting Name="CurrentDatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VRHOSDB</Value>
+    </Setting>
+    <Setting Name="CurrentUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ittoolsuser</Value>
+    </Setting>
+    <Setting Name="CurrentPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2270frisb33#</Value>
+    </Setting>
+    <Setting Name="FilteredStoresList" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="FilteredQuery" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

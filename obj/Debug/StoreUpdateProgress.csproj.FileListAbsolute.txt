@@ -1,0 +1,12 @@
+D:\VSProjects\Corporate Support\Versirent\StoreUpdateProgress\StoreUpdateProgress\bin\Debug\StoreUpdateProgress.exe.config
+D:\VSProjects\Corporate Support\Versirent\StoreUpdateProgress\StoreUpdateProgress\bin\Debug\StoreUpdateProgress.exe
+D:\VSProjects\Corporate Support\Versirent\StoreUpdateProgress\StoreUpdateProgress\bin\Debug\StoreUpdateProgress.pdb
+D:\VSProjects\Corporate Support\Versirent\StoreUpdateProgress\StoreUpdateProgress\obj\Debug\StoreUpdateProgress.Form_AULog.resources
+D:\VSProjects\Corporate Support\Versirent\StoreUpdateProgress\StoreUpdateProgress\obj\Debug\StoreUpdateProgress.Form_ChangeHOS.resources
+D:\VSProjects\Corporate Support\Versirent\StoreUpdateProgress\StoreUpdateProgress\obj\Debug\StoreUpdateProgress.Form_Console.resources
+D:\VSProjects\Corporate Support\Versirent\StoreUpdateProgress\StoreUpdateProgress\obj\Debug\StoreUpdateProgress.Properties.Resources.resources
+D:\VSProjects\Corporate Support\Versirent\StoreUpdateProgress\StoreUpdateProgress\obj\Debug\StoreUpdateProgress.csproj.GenerateResource.Cache
+D:\VSProjects\Corporate Support\Versirent\StoreUpdateProgress\StoreUpdateProgress\obj\Debug\StoreUpdateProgress.exe
+D:\VSProjects\Corporate Support\Versirent\StoreUpdateProgress\StoreUpdateProgress\obj\Debug\StoreUpdateProgress.pdb
+D:\VSProjects\Corporate Support\Versirent\StoreUpdateProgress\StoreUpdateProgress\obj\Debug\StoreUpdateProgress.csprojResolveAssemblyReference.cache
+D:\VSProjects\Corporate Support\Versirent\StoreUpdateProgress\StoreUpdateProgress\obj\Debug\StoreUpdateProgress.Form_StoreFilterSelect.resources
